@@ -1,0 +1,10 @@
+.body {
+    width: 50%;
+    border-radius: 100%;
+    background: yellow;
+    margin: 0 auto;
+}
+
+.Off {
+    background: rgba(255, 255, 0, 0.18);
+}

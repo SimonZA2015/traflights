@@ -1,0 +1,5 @@
+.body {
+    height: 100%;
+    display: grid;
+    grid-template-rows: repeat(4, calc(90vh/4));
+}

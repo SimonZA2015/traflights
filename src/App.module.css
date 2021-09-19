@@ -1,0 +1,16 @@
+.body {
+    width: 50%;
+    height: 90vh;
+    max-width: 500px;
+    padding: 10px;
+    background: black;
+    border-radius: 30px;
+}
+
+.bg {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

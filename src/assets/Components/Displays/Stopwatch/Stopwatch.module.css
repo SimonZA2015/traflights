@@ -1,0 +1,14 @@
+.body {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: white;
+    border-radius: 100%;
+    margin: 0 auto;
+}
+
+.body h4 {
+    font-family: Arial, serif;
+    font-size: 100px
+}
