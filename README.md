@@ -1,70 +1,25 @@
-# Getting Started with Create React App
+# Сделал:
+-сохранение
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+-переход по роэтору по цвету
 
-## Available Scripts
+-переключение по времени
 
-In the project directory, you can run:
+-показ секндомера
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# Модули:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+`react-dom-router` - для роутиринга
 
-### `npm test`
+# Установка:
+>npm i
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+>npm run start
 
-### `npm run build`
+# Скриншоты:
+pc:
+<img alt="Pc version" height="300" src="https://downloader.disk.yandex.ru/preview/2c092463893b0553e971231db5f92e4356607a92e7767ca0c96a6be602e0dbb0/6147b587/hQbgx9yNBmzAsDW62HbS2VRCpe9HTXJjLRHhueCw9zOnx1Uoh8Z15yLpSOKoGP9DOheAtsK2hxLBj4_PqAMfAQ%3D%3D?uid=0&filename=0.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048" title="Pc version" width="500"/>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+mobile:
+<img height="400" src="https://downloader.disk.yandex.ru/preview/7cc3ad0dae0252be821f204209eaedb0441ae5eea20fef39925fad09bed7883c/6147b5b3/0tEPDBdNu4rxBoW5e2tD83_U2hZZSlwp0eMj2Erx1rmjr33YuD7K7mpbd_zcCLrKbRyOh33MkZs0xrA5lWyEeA%3D%3D?uid=0&filename=1.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048" title="Mobile version" width="300"/>
